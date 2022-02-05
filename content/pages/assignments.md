@@ -6,10 +6,45 @@ uid: 4e8b1afa-a677-54f8-d5a7-04c61aedb8e0
 
 The reading summaries are assignments in this course.
 
-| ASSIGNMENTS | supporting files |
-| --- | --- |
-| Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1)) | jscheme.jar ([JAR]({{< baseurl >}}/resources/jscheme))  {{< br >}}  {{< br >}}smartsweeper.jar ([JAR]({{< baseurl >}}/resources/smartsweeper)) |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2)) | invest-josh-kb.custom.lisp ([LISP](/courses/electrical-engineering-and-computer-science/6-871-knowledge-based-applications-systems-spring-2005/assignments/investjoshkbcustom.lisp))  {{< br >}}  {{< br >}}Joshua Reference Manual ([PDF - 1.7 MB]({{< baseurl >}}/resources/joshua_reference))  {{< br >}}  {{< br >}}User's Guide to Basic Joshua ([PDF - 1.8 MB]({{< baseurl >}}/resources/joshua_user_guid)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+supporting files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+jscheme.jar ([JAR]({{< baseurl >}}/resources/jscheme))  
+  
+smartsweeper.jar ([JAR]({{< baseurl >}}/resources/smartsweeper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+invest-josh-kb.custom.lisp ([LISP](/courses/electrical-engineering-and-computer-science/6-871-knowledge-based-applications-systems-spring-2005/assignments/investjoshkbcustom.lisp))  
+  
+Joshua Reference Manual ([PDF - 1.7 MB]({{< baseurl >}}/resources/joshua_reference))  
+  
+User's Guide to Basic Joshua ([PDF - 1.8 MB]({{< baseurl >}}/resources/joshua_user_guid))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings Summaries
 ------------------
