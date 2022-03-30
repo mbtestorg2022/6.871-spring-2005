@@ -7,6 +7,7 @@ description: 'This resource contains 3 problems on concept learning and heuristi
   and a tutorial introduction to case-based reasoning.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-871-knowledge-based-applications-systems-spring-2005/193a64bd924e53153afb33706b451cd3_reading16.pdf
 file_type: application/pdf
+parent_uid: 4e8b1afa-a677-54f8-d5a7-04c61aedb8e0
 resourcetype: Document
 title: reading16.pdf
 uid: 193a64bd-924e-5315-3afb-33706b451cd3

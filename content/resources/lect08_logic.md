@@ -4,6 +4,7 @@ description: This resource includes a discussion on what logic is and its univer
   acceptance.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-871-knowledge-based-applications-systems-spring-2005/233e2e8021787d40f9c4e73e1f06283d_lect08_logic.pdf
 file_type: application/pdf
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect08_logic.pdf
 uid: 233e2e80-2178-7d40-f9c4-e73e1f06283d

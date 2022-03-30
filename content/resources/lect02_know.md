@@ -5,6 +5,7 @@ description: 'This resource includes topics: Explaination of the mindset of know
   create them, change of mind about what to use a computer for.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-871-knowledge-based-applications-systems-spring-2005/6dccb18e39e0eb7b43ec990caa3fc294_lect02_know.pdf
 file_type: application/pdf
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect02_know.pdf
 uid: 6dccb18e-39e0-eb7b-43ec-990caa3fc294

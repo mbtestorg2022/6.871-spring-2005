@@ -5,6 +5,7 @@ description: 'This resource includes topics: The intent of this lecture, the lon
   task, predictable difficulties, and pragmatics of debriefing.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-871-knowledge-based-applications-systems-spring-2005/0cda8692aa14e884d80561192515a258_lect12_pragmatic.pdf
 file_type: application/pdf
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect12_pragmatic.pdf
 uid: 0cda8692-aa14-e884-d805-61192515a258

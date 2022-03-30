@@ -6,6 +6,7 @@ description: 'This resource includes topics: A problem with Mycin, brief review 
   combinatorics through model assumptions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-871-knowledge-based-applications-systems-spring-2005/4f6a557a91972782f615e9c8ed797acc_lect10_uncert.pdf
 file_type: application/pdf
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect10_uncert.pdf
 uid: 4f6a557a-9197-2782-f615-e9c8ed797acc
